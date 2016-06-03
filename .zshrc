@@ -11,3 +11,4 @@ source $ZSH_CUSTOM/nova-env.sh
 ZSH_THEME="yzsh"
 
 source $ZSH/oh-my-zsh.sh
+source ~/Devel/yzsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
